@@ -87,10 +87,10 @@ function Home() {
       </Container>
       <footer class="footer-distributed">
         <div class="footer-right">
-          <a href="#"><i class="fab fa-codepen"></i></a>
-          <a href="#"><i class="fab fa-twitter-square"></i></a>
-          <a href="#"><i class="fab fa-linkedin"></i></a>
-          <a href="#"><i class="fab fa-github-square"></i></a>
+          <a href="www.codepen.com"><i class="fab fa-codepen"></i></a>
+          <a href="www.twitter.com"><i class="fab fa-twitter-square"></i></a>
+          <a href="www.linkedin.com"><i class="fab fa-linkedin"></i></a>
+          <a href="www.github.com"><i class="fab fa-github-square"></i></a>
         </div>
         <div class="footer-left">
           <p>&copy; 2020</p>
