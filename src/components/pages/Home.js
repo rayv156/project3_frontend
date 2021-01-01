@@ -87,7 +87,7 @@ function Home() {
       </Container>
       <footer class="footer-distributed">
         <div class="footer-right">
-          <a href="#"><i class="fab fa-facebook-square"></i></a>
+          <a href="#"><i class="fab fa-codepen"></i></a>
           <a href="#"><i class="fab fa-twitter-square"></i></a>
           <a href="#"><i class="fab fa-linkedin"></i></a>
           <a href="#"><i class="fab fa-github-square"></i></a>
