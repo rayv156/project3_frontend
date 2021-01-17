@@ -47,6 +47,8 @@ const Login = (props) => {
                     <div id="login-icon">
                         <img src="https://dqcgrsy5v35b9.cloudfront.net/cruiseplanner/assets/img/icons/login-w-icon.png" className="usericon" />
                     </div>
+                    <h3>To demo try:</h3>
+                    <p>Username: demo <b />Password: demo1</p>
                     <div className="form-inputs">
                         <label htmlFor="username" className="form-label">
                             Username:
