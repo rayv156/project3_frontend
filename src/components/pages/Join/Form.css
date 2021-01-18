@@ -75,6 +75,7 @@ align-items: center;
   .form-content-right {
     border-radius: 10px;
     position: relative;
+    color: white;
     background: linear-gradient(90deg, rgb(40, 40, 40) 0%, rgb(17, 17, 17) 100%);
   }
   
